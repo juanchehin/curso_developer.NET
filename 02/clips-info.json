@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 109,
+    "Name": "dd5a43d1-ae66-4383-9f3e-a0fc137fb94f",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 23000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 110,
+    "Name": "0b9bb47f-1472-48d9-adc8-ffeac00b2424",
+    "Title": "Displaying Actions on Hover",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 204000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 111,
+    "Name": "eb2f70fb-fdc5-45ce-98e7-85722e6624d2",
+    "Title": "Populating a Form",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 311000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 112,
+    "Name": "4616bd67-d925-44ea-8855-2c70e0340588",
+    "Title": "Fixing the Issue with Input Fields",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 161000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 113,
+    "Name": "a5472d68-e6db-4efc-91b0-925a238d65b7",
+    "Title": "Refactoring",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 232000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 114,
+    "Name": "246f1912-544b-4787-a5d5-dc14211ac683",
+    "Title": "Updating Data",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 341000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 115,
+    "Name": "1c86bdd9-303a-477b-96fc-82a386ad526d",
+    "Title": "Testing and Debugging",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 127000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 116,
+    "Name": "3cc3b747-cc86-441a-9554-44bed7324604",
+    "Title": "Using Expressions to Replace Magic Strings",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 315000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  },
+  {
+    "Id": 117,
+    "Name": "0cab4c42-6948-4e9a-8bd7-5a0522b3a4a0",
+    "Title": "Summary",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 76000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 18
+  }
+]

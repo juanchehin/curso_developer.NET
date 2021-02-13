@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 140,
+    "Name": "c6638d2f-080f-4e59-9032-e836c4563e84",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 52000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 141,
+    "Name": "9681a7b8-2312-44dc-810a-793d30a61fcc",
+    "Title": "Refactoring Towards an Object-oriented Design",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 272000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 142,
+    "Name": "4783ca4e-8a98-412c-b5cd-3d2cc3e19b56",
+    "Title": "Refactoring: Ensuring Valid Objects",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 342000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 143,
+    "Name": "a169d61b-5fb0-4af2-8af6-eade7df1a7b1",
+    "Title": "Code Reviews",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 169000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 144,
+    "Name": "5399d3f3-7bce-48b0-8098-7d7f2da70423",
+    "Title": "Optimization",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 224000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 145,
+    "Name": "58ddabf7-dde9-4428-b20f-56a331419ba8",
+    "Title": "Refactoring: Cohesion",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 285000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 146,
+    "Name": "44d4a791-8d1b-41ab-b88c-cae5db3edf89",
+    "Title": "Fixing the Issue with Reverse Relationships",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 308000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 147,
+    "Name": "5354980a-96c5-4e7a-b58a-cfb7a74dd708",
+    "Title": "Testing",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 149000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 148,
+    "Name": "df78c648-4db4-4141-8392-8946b2e12133",
+    "Title": "Exercise",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 32000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 149,
+    "Name": "ea28777e-4948-4337-8b53-65afd627009e",
+    "Title": "Code Review",
+    "ClipIndex": 9,
+    "DurationInMilliseconds": 96000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 150,
+    "Name": "f3b6cab0-ffbc-49db-8736-df0eb6d88785",
+    "Title": "Using Factory Methods to Create Objects",
+    "ClipIndex": 10,
+    "DurationInMilliseconds": 427000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  },
+  {
+    "Id": 151,
+    "Name": "d2d585ea-97fc-4620-b5e4-0ade3fca60e1",
+    "Title": "Summary",
+    "ClipIndex": 11,
+    "DurationInMilliseconds": 104000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 21
+  }
+]

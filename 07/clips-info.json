@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 162,
+    "Name": "08f22c62-671c-4786-904d-e43bd9b1e554",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 35000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 163,
+    "Name": "68932319-50b6-4347-bf32-033ec755a0dc",
+    "Title": "Using Bootstrap Icons",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 139000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 164,
+    "Name": "58a34dd1-c5e1-4053-8164-cd63ee48e657",
+    "Title": "Using Bootstrap Badges",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 263000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 165,
+    "Name": "b1b3095c-c404-4e3f-b408-902d67b2370f",
+    "Title": "Consuming the API Using jQuery AJAX",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 180000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 166,
+    "Name": "8682875f-34b9-418a-8704-d86e996f9c92",
+    "Title": "Animating Content with CSS",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 164000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 167,
+    "Name": "2e41ccd8-82ae-4155-9b78-9e9455c9f8ac",
+    "Title": "Using Bootstrap Popovers",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 194000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 168,
+    "Name": "01de6c02-5562-4b02-8926-28bd30717914",
+    "Title": "Adding Underscore.js",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 334000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 169,
+    "Name": "b62beac2-c912-4ca1-81cc-4bc727af5ca6",
+    "Title": "Rendering Content Using Underscore Templates",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 506000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 170,
+    "Name": "55ec40b1-a865-4ad6-bb53-6e0cb0a1e3f7",
+    "Title": "Code Review",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 225000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 171,
+    "Name": "505397ad-eb02-4300-8458-3fb4f6ac22e8",
+    "Title": "Handling Edge Cases",
+    "ClipIndex": 9,
+    "DurationInMilliseconds": 108000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  },
+  {
+    "Id": 172,
+    "Name": "768a19f8-a483-4873-b61b-da8887b44a06",
+    "Title": "Summary",
+    "ClipIndex": 10,
+    "DurationInMilliseconds": 90000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 23
+  }
+]

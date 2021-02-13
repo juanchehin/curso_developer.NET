@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 190,
+    "Name": "12119b90-e078-4243-ab05-d2cee29a4d7b",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 13000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 26
+  },
+  {
+    "Id": 191,
+    "Name": "73ba5c37-4229-4c74-8853-ab3d4b3e4ae7",
+    "Title": "Adding the Search Form",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 148000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 26
+  },
+  {
+    "Id": 192,
+    "Name": "0a755f4c-5126-4027-bd30-8da09e6ba004",
+    "Title": "Using Bootstrap Input Groups",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 218000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 26
+  },
+  {
+    "Id": 193,
+    "Name": "99078150-498c-4a18-9065-499ef86051b3",
+    "Title": "Implementing Bookmarkable Pages",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 370000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 26
+  },
+  {
+    "Id": 194,
+    "Name": "24afb70b-e674-44c2-869e-05f9b326b03e",
+    "Title": "Exercise",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 79000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 26
+  },
+  {
+    "Id": 195,
+    "Name": "256db9f9-1621-41a9-b1c9-b86bb9758046",
+    "Title": "Code Review",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 33000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 26
+  }
+]

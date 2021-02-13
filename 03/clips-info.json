@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 118,
+    "Name": "ab06e115-25e3-4dfb-a6b1-18a068ee7cd2",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 28000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 119,
+    "Name": "aff5c88c-2cc5-4d70-848d-2cf16cb27b03",
+    "Title": "Extending the Domain",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 122000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 120,
+    "Name": "8e4537b2-6742-4d9e-b450-0a4138b9265c",
+    "Title": "Building an API",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 219000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 121,
+    "Name": "c2fbaf37-7036-4dc3-b7ee-781b241d8f7a",
+    "Title": "Consuming the API Using jQuery AJAX",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 338000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 122,
+    "Name": "ef708a52-7479-40a7-b707-4101dab42f1f",
+    "Title": "Using Bootbox Dialogs",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 256000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 123,
+    "Name": "bffbab2a-631b-444f-8b85-f3756ab34561",
+    "Title": "Improving the Usability of Dialogs",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 251000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 124,
+    "Name": "cf48ec34-9967-4cd0-af81-fce4b0553132",
+    "Title": "Excluding Logically-deleted Objects from Queries",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 159000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 125,
+    "Name": "dc1d4c96-56f2-4174-bb2c-2e1896cde569",
+    "Title": "Using Bootstrap Labels",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 204000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 126,
+    "Name": "a8babfca-0eea-4ca6-b440-2b8465cc2c31",
+    "Title": "Handling Edge Cases",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 86000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 127,
+    "Name": "5dad95c2-a620-4557-b238-5462f2b40495",
+    "Title": "Cleaning up the Project",
+    "ClipIndex": 9,
+    "DurationInMilliseconds": 106000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  },
+  {
+    "Id": 128,
+    "Name": "cf6b934f-b828-4707-9a90-88203af67147",
+    "Title": "Summary",
+    "ClipIndex": 10,
+    "DurationInMilliseconds": 61000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 19
+  }
+]

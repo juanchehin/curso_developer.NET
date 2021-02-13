@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 183,
+    "Name": "9effb472-18e5-4892-9054-7185ad548267",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 22000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  },
+  {
+    "Id": 184,
+    "Name": "4faf8806-f619-47b6-9a87-440e024b391f",
+    "Title": "Handling Popover Events",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 162000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  },
+  {
+    "Id": 185,
+    "Name": "a9594420-ceb0-4547-bfd7-cac6e50418d3",
+    "Title": "Exercise",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 25000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  },
+  {
+    "Id": 186,
+    "Name": "216b32fe-594b-4a1e-8c43-3068074d54d4",
+    "Title": "Code Review",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 184000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  },
+  {
+    "Id": 187,
+    "Name": "805ac227-2354-40e6-af8f-fe581ccc6bd9",
+    "Title": "Consuming the API",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 59000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  },
+  {
+    "Id": 188,
+    "Name": "57044b83-c886-4206-a31e-b34f5603628f",
+    "Title": "Discussion",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 96000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  },
+  {
+    "Id": 189,
+    "Name": "8e024d5d-3561-463a-856c-e1c90ba9cc9d",
+    "Title": "Summary",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 31000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 25
+  }
+]

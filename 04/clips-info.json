@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 129,
+    "Name": "e39fe229-1457-41e1-978b-4fc60c955402",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 52000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 130,
+    "Name": "0231f5b0-5b8c-4f0b-9d2c-b08357a85aed",
+    "Title": "Clarifying the Requirements",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 117000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 131,
+    "Name": "b79c8cf8-45a9-4649-bba3-79d0711d3280",
+    "Title": "First Attempt: A Simple Design",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 163000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 132,
+    "Name": "0b88c327-3bad-427c-baa2-b534897e0982",
+    "Title": "Second Attempt: Using Inheritance",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 139000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 133,
+    "Name": "a9a227cc-db9d-4860-8319-5a69b7369d9d",
+    "Title": "Third Attempt: Collapsing the Hierarchy",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 99000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 134,
+    "Name": "b2eb2c09-aed9-463d-94ac-01eb2a8a3bea",
+    "Title": "An Alternative Design",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 58000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 135,
+    "Name": "6ca64fc1-fb5d-48df-9076-9b3d2182e0cf",
+    "Title": "Fourth Attempt: Using an Association Class",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 87000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 136,
+    "Name": "a8691855-6446-48c0-ba6c-98dadd56e95b",
+    "Title": "Implementing Domain Classes",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 292000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 137,
+    "Name": "e39e31e6-b328-4a3f-8a6c-aa411a3747cc",
+    "Title": "Migrating the Database",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 293000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 138,
+    "Name": "a34afc6a-0b6a-4222-b809-377c8af6c00e",
+    "Title": "Storing Notifications",
+    "ClipIndex": 9,
+    "DurationInMilliseconds": 217000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  },
+  {
+    "Id": 139,
+    "Name": "bf923f9f-fc0f-4a5c-851f-6bbe88039c97",
+    "Title": "Summary",
+    "ClipIndex": 10,
+    "DurationInMilliseconds": 115000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 20
+  }
+]

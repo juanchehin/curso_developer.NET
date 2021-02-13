@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 105,
+    "Name": "1c7a70b2-e2b5-4b85-b8e3-294eabe6cb6c",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 83000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 17
+  },
+  {
+    "Id": 106,
+    "Name": "d7226d5b-0403-48ff-a826-15abc94ee423",
+    "Title": "Reading Data",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 443000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 17
+  },
+  {
+    "Id": 107,
+    "Name": "3d64cde5-d78d-4633-a464-c6713ab1a1cc",
+    "Title": "Minor Enhancements",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 82000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 17
+  },
+  {
+    "Id": 108,
+    "Name": "9a9e2670-f1be-4e6b-a481-86311aacb4b5",
+    "Title": "Summary",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 71000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 17
+  }
+]

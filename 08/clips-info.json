@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 173,
+    "Name": "dc8062e5-1f5f-40d0-93f1-36f09c8f539a",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 20000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 174,
+    "Name": "ab423954-308c-418c-a0b6-a501284c22d7",
+    "Title": "Improving the Look and Feel of Popover",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 248000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 175,
+    "Name": "8e164100-536b-4aaf-b813-6ca7cf401a6e",
+    "Title": "Overriding Popover Template",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 316000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 176,
+    "Name": "9ab01d11-00ef-4988-9cbc-b225f7e60bcc",
+    "Title": "Making Text Bold",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 175000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 177,
+    "Name": "4fe5b872-5705-4535-8e9f-417109f60b41",
+    "Title": "Formatting Dates Using Moment.js",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 261000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 178,
+    "Name": "32e850cd-0b58-4ee5-8424-c5389144d16d",
+    "Title": "Final Touch",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 141000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 179,
+    "Name": "5877b912-1c66-4d2b-aeb7-528ade1a4d2c",
+    "Title": "Consolidating Bundles",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 187000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 180,
+    "Name": "d84348a4-40a0-40d1-9e32-6d8d87429c73",
+    "Title": "Using LESS to Write Cleaner CSS",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 354000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 181,
+    "Name": "7ec7327d-6989-4c1e-8410-a70b3f7c8494",
+    "Title": "Converting Existing CSS to LESS",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 101000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  },
+  {
+    "Id": 182,
+    "Name": "ce8a74c1-bb60-4d2c-b372-7989f6050522",
+    "Title": "Summary",
+    "ClipIndex": 9,
+    "DurationInMilliseconds": 72000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 24
+  }
+]

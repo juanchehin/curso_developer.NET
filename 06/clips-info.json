@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 152,
+    "Name": "2bf2a565-5215-4d1a-9a8b-3ce52f774a30",
+    "Title": "Introduction",
+    "ClipIndex": 0,
+    "DurationInMilliseconds": 27000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 153,
+    "Name": "2d216faa-3ae7-431b-aad9-356524b24171",
+    "Title": "Building an API",
+    "ClipIndex": 1,
+    "DurationInMilliseconds": 340000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 154,
+    "Name": "76df1753-5f37-4d64-b778-58daf9feccb2",
+    "Title": "Introducing DTOs",
+    "ClipIndex": 2,
+    "DurationInMilliseconds": 301000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 155,
+    "Name": "337d42f8-e394-43bd-bfcd-4ff665eb18a6",
+    "Title": "Manual Mapping",
+    "ClipIndex": 3,
+    "DurationInMilliseconds": 243000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 156,
+    "Name": "fec222bd-0f91-4606-ac85-357ac22597a2",
+    "Title": "Using AutoMapper",
+    "ClipIndex": 4,
+    "DurationInMilliseconds": 221000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 157,
+    "Name": "f7aef5df-676f-4d53-a751-39eef59dd129",
+    "Title": "Organising AutoMapper Mappings",
+    "ClipIndex": 5,
+    "DurationInMilliseconds": 175000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 158,
+    "Name": "c39d9b36-9529-4abb-94ed-24741f21506b",
+    "Title": "Using Camel Notation",
+    "ClipIndex": 6,
+    "DurationInMilliseconds": 113000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 159,
+    "Name": "9e65a199-113c-49ff-b201-18aadd5ac93e",
+    "Title": "Cleaning up the Project",
+    "ClipIndex": 7,
+    "DurationInMilliseconds": 43000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 160,
+    "Name": "05c14943-330f-4cf0-a9c0-0c84f0cdfc61",
+    "Title": "Fixing a Small Bug",
+    "ClipIndex": 8,
+    "DurationInMilliseconds": 30000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  },
+  {
+    "Id": 161,
+    "Name": "846facc0-236b-4071-9c98-031c1079f382",
+    "Title": "Summary",
+    "ClipIndex": 9,
+    "DurationInMilliseconds": 75000,
+    "SupportsStandard": 1,
+    "SupportsWidescreen": 1,
+    "ModuleId": 22
+  }
+]
